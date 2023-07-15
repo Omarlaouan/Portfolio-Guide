@@ -7,6 +7,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 ## 📚 Table of Contents
 - [Machine Learning](#machine-learning)
 - [Deep Learning](#machine-learning)
+- [Popular Algorithms From Scratch](#popular-algorithms-from-scratch)
 - [MLOps](#machine-learning)
 - [Data Engineering](#data-engineering)
 
@@ -26,16 +27,15 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ***
 
-# Popular Algorithms From Scratch (In progress)
-
+# Popular Algorithms From Scratch 
+(In progress)
 ***
 
 # MLOps (In progress)
-
+(In progress)
 ***
 
 # Data Engineering (In progress)
-
-
+(In progress)
 ***
 
