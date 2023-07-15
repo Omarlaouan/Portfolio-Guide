@@ -26,8 +26,6 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ***
 
-***
-
 # Popular algorithms from scratch (In progress)
 
 ***
