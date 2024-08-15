@@ -28,11 +28,8 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | 🤖 [Popular Algorithms From Sctrach](https://github.com/Omarlaouan/popular_algorithms_from_scratch) | Python, Numpy, Jypyter Notebook| Linear regression, Logistic regression, KNN, Decision tree, Deep Learning, Deep neural Network, Convolutional Neural Network, Sequence Models, Transformers | The goal of this project is to code from scratch popular machine learning and deep learning algorithms in order to really understand how they work under the hood. (Ongoing project)|  
 ***
 
-# MLOps (In progress)
-(In progress)
-***
-
-# Data Engineering (In progress)
+# ML experiements
+Tiny ML experiements on various subjects. 
 (In progress)
 ***
 
