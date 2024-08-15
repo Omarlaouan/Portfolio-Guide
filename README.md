@@ -30,6 +30,6 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 Quick ML experiements on various subjects. 
 | Project Link | Tools |Project Description | 
 |---|---|---|
-| 🤖 [Drift detection](https://github.com/Omarlaouan/drift_detection) | Alibi Detect, Evidently| Explore and compare to open source libraries.<br/> Implement a simple drift detection algorithm from scratch in Python.|  
+| ⛓️‍💥 [Drift detection](https://github.com/Omarlaouan/drift_detection) | Alibi Detect, Evidently| Explore and compare to open source libraries.<br/> Implement a simple drift detection algorithm from scratch in Python.|  
 ***
 
