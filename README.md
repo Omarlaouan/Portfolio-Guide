@@ -1,6 +1,4 @@
-# Portfolio-Guide
-
-# 🗂️ Omar's Portfolio
+# 🗂️ Portfolio-Guide
 
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
 
@@ -28,8 +26,10 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | 🤖 [Popular Algorithms From Sctrach](https://github.com/Omarlaouan/popular_algorithms_from_scratch) | Python, Numpy, Jypyter Notebook| Linear regression, Logistic regression, KNN, Decision tree, Deep Learning, Deep neural Network, Convolutional Neural Network, Sequence Models, Transformers | The goal of this project is to code from scratch popular machine learning and deep learning algorithms in order to really understand how they work under the hood. (Ongoing project)|  
 ***
 
-# ML experiements
-Tiny ML experiements on various subjects. 
-(In progress)
+# ML experiements 
+Quick ML experiements on various subjects. 
+| Project Link | Tools |Project Description | 
+|---|---|---|
+| 🤖 [Drift detection](https://github.com/Omarlaouan/drift_detection) | Alibi Detect, Evidently| Explore and compare to open source libraries.<br/> Implement a simple drift detection algorithm from scratch in Python.|  
 ***
 
