@@ -1,6 +1,6 @@
 # 🗂️ Portfolio Guide
 
-Welcome to my data portfolio.  
+Welcome to my portfolio.  
 This repository provides a structured overview of my projects in machine learning, deep learning, MLOps, data engineering, and algorithm implementation.
 
 ## 📚 Table of Contents
